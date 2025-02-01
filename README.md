@@ -6,7 +6,7 @@ Discussion Network is a social media application designed to facilitate engaging
 # Respository content
 (-) Design Requirement Document: Includes the functional specification and design specification
 
-(-) Zip file: Include the all java files needed to run the final app
+(-) Zip file: Include the all java files needed to run the final app, and the html file of all classes.
 # How to set up
 Start off by downloading the DiscussionNetworkApplication.zip file. Once the file is downloaded open up the zip and extract all. Open up from the extracted folder. Open the file to show the discussionnetwork_UPDATE3. Now open the the DiscussionNetworkApplication.jar file. If user windows the user is able to Open the .jar file within the Application folder, and the user will be brought to the login window of the Application. If the user is on mac, the user will have to right click on the .jar file. Select open with javaLauncher and the application will run.
 # How to use
